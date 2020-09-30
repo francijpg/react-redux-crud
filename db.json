@@ -1,0 +1,19 @@
+{
+  "productos": [
+    {
+      "nombre": "hot chocolate",
+      "precio": "500",
+      "id": 7
+    },
+    {
+      "nombre": "cranberry juice",
+      "precio": 100,
+      "id": 9
+    },
+    {
+      "nombre": "1",
+      "precio": 2,
+      "id": 10
+    }
+  ]
+}
